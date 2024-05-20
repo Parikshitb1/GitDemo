@@ -1,0 +1,15 @@
+C:\Users\Parikshit_B\source\repos\Add\Add\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Parikshit_B\source\repos\Add\Add\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Parikshit_B\source\repos\Add\Add\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Parikshit_B\source\repos\Add\Add\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Parikshit_B\source\repos\Add\Add\bin\Debug\Add.dll
+C:\Users\Parikshit_B\source\repos\Add\Add\bin\Debug\Add.pdb
+C:\Users\Parikshit_B\source\repos\Add\Add\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Parikshit_B\source\repos\Add\Add\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Parikshit_B\source\repos\Add\Add\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Parikshit_B\source\repos\Add\Add\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Parikshit_B\source\repos\Add\Add\obj\Debug\Add.csproj.AssemblyReference.cache
+C:\Users\Parikshit_B\source\repos\Add\Add\obj\Debug\Add.csproj.CoreCompileInputs.cache
+C:\Users\Parikshit_B\source\repos\Add\Add\obj\Debug\Add.csproj.CopyComplete
+C:\Users\Parikshit_B\source\repos\Add\Add\obj\Debug\Add.dll
+C:\Users\Parikshit_B\source\repos\Add\Add\obj\Debug\Add.pdb

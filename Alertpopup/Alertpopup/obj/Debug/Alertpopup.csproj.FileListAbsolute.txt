@@ -1,0 +1,17 @@
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\obj\Debug\Alertpopup.csproj.AssemblyReference.cache
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\obj\Debug\Alertpopup.csproj.CoreCompileInputs.cache
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\bin\Debug\Alertpopup.exe.config
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\bin\Debug\Alertpopup.exe
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\bin\Debug\Alertpopup.pdb
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\bin\Debug\System.Drawing.Common.dll
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\bin\Debug\WebDriver.dll
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\bin\Debug\System.Drawing.Common.xml
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\bin\Debug\WebDriver.xml
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\obj\Debug\Alertpopup.csproj.CopyComplete
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\obj\Debug\Alertpopup.exe
+C:\Users\Parikshit_B\source\repos\Alertpopup\Alertpopup\obj\Debug\Alertpopup.pdb

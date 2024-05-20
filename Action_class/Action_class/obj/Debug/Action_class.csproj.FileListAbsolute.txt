@@ -1,0 +1,17 @@
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\bin\Debug\Action_class.exe.config
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\bin\Debug\Action_class.exe
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\bin\Debug\Action_class.pdb
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\bin\Debug\System.Drawing.Common.dll
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\bin\Debug\WebDriver.dll
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\bin\Debug\System.Drawing.Common.xml
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\bin\Debug\WebDriver.xml
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\obj\Debug\Action_class.csproj.AssemblyReference.cache
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\obj\Debug\Action_class.csproj.CoreCompileInputs.cache
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\obj\Debug\Action_class.csproj.CopyComplete
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\obj\Debug\Action_class.exe
+C:\Users\Parikshit_B\source\repos\Action_class\Action_class\obj\Debug\Action_class.pdb
